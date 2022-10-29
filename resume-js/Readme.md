@@ -27,3 +27,9 @@ The app should have a README.md file including what is referenced below in the a
 # Deliverables #
     A link to your app, which is deployed somewhere.
     A link to your GitHub repository (or repositories if there are multiple), so we can see the progress on your app.
+# Tools and Resources used #
+    https://www.figma.com/
+    AWS Deployment
+        https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro
+    Vite Documentation
+        https://vitejs.dev/guide/static-deploy.html
