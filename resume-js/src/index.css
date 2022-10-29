@@ -1,5 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/*creates a custom layer to add multiple css properties to layers as a class*/
+@layer components {
+  .text-spacing {
+    @apply px-4;
+    @apply cursor-pointer;
+  }
+}
+
+@font-face {
+  font-family: 'Edu TAS Beginner', cursive;
+  src: url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&display=swap');
+}
 
 
