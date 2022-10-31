@@ -26,7 +26,7 @@ return (
             {}
         </div>
         {/* mobile menu*/}
-        <div className={!nav ? "hidden":"absolute top-0 left-0 w-full h-screen bg-gradient-to-r text-white from-sky-500 to-blue-800 flex flex-col justify-center items-center"}>
+        <div className={!nav ? "hidden":"absolute top-0 left-0 w-full h-screen text-white bg-gradient-to-r  from-sky-500 to-blue-800 flex flex-col justify-center items-center"}>
         <ul>
             <li className="py-6 text-4xl" >Home</li>
             <li className="py-6 text-4xl" >About</li>
