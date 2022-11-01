@@ -13,7 +13,7 @@ const Home = () =>{
                         minima provident natus dolor asperiores sit enim, eos doloribus?
                     </p>
                     <div>
-                        <button className="text-white border-2 px-6 py-3 my-2 flex items-center hover:bg-gradient-to-r from-sky-500 to-blue-800">Check out my work!  <HiArrowNarrowRight className= "ml-4"/>  </button>
+                        <button className="text-white border-2  border-sky-500 px-6 py-3 my-2 flex items-center hover:bg-gradient-to-r from-sky-500 to-blue-800">Check out my work!  <HiArrowNarrowRight className= "ml-4"/>  </button>
                     </div>
 
             </div>
