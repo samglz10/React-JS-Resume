@@ -33,3 +33,5 @@ The app should have a README.md file including what is referenced below in the a
         https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro
     Vite Documentation
         https://vitejs.dev/guide/static-deploy.html
+
+
